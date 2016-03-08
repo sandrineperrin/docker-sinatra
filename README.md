@@ -1,4 +1,3 @@
-# Test 08/03/2016 at hackathon RADSeq
 # Runing a sinatra application on Docker
 
 This is sample project for running a sinatra application on Docker from within a Travis build.
